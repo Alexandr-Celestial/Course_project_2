@@ -1,0 +1,2725 @@
+[
+    {
+        "name": "Инженер по тестированию backend (QA manual)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120079524",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Тестировщик в отдел R&D",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120083118",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Аналитик данных",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119990557",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 120000,
+        "salary_to": 0
+    },
+    {
+        "name": "Тестировщик / IT специалист",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120063617",
+        "experience": "Нет опыта",
+        "salary_from": 100000,
+        "salary_to": 160000
+    },
+    {
+        "name": "Директор департамента Информационных Технологий",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119892956",
+        "experience": "Более 6 лет",
+        "salary_from": 500000,
+        "salary_to": 0
+    },
+    {
+        "name": "QA Engineer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119890201",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Инженер по тестированию",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119276887",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 100000,
+        "salary_to": 160000
+    },
+    {
+        "name": "Аналитик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120079035",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Python-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119903671",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 180000,
+        "salary_to": 0
+    },
+    {
+        "name": "Тестировщик ПО",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119012288",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 140000,
+        "salary_to": 170000
+    },
+    {
+        "name": "QA тестировщик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119925059",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 110000,
+        "salary_to": 0
+    },
+    {
+        "name": "Младший тестировщик/Junior+ QA",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119343055",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Программист Python (FastApi, Django)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119780611",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Data Scientist (Аналитик данных)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119952381",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 500000,
+        "salary_to": 1000000
+    },
+    {
+        "name": "Разработчик ETL / Data Engineer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120066205",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "QA-инженер",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119826473",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 150000
+    },
+    {
+        "name": "ML-инженер",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=118458994",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Аналитик данных",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120033643",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Аналитик данных",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119840752",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Аналитик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119972996",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Инженер-тестировщик (ручное тестирование)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119073090",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Программист (junior)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120013095",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 65000,
+        "salary_to": 70000
+    },
+    {
+        "name": "Тестировщик в области гражданской авиации",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=118913389",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "QA Engineer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=118991728",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "QA инженер",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119043095",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 120000,
+        "salary_to": 150000
+    },
+    {
+        "name": "Python-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120046511",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 150000,
+        "salary_to": 190000
+    },
+    {
+        "name": "Backend Middle Developer / Python разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119846572",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Системный администратор",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119965834",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 180000,
+        "salary_to": 250000
+    },
+    {
+        "name": "Бизнес-аналитик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119814485",
+        "experience": "Нет опыта",
+        "salary_from": 120000,
+        "salary_to": 150000
+    },
+    {
+        "name": "Разработчик SQL/Python",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119401020",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Python-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119827956",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 150000,
+        "salary_to": 0
+    },
+    {
+        "name": "Аналитик данных",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119822349",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "TechLead Frontend / Senior frontend developer / руководитель отдела фронтенд разработки",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119947880",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Разработчик python",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120069461",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 200000
+    },
+    {
+        "name": "Бизнес-аналитик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120034143",
+        "experience": "Нет опыта",
+        "salary_from": 110000,
+        "salary_to": 140000
+    },
+    {
+        "name": "Python-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=118992526",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "PHP-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120083173",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 250000,
+        "salary_to": 330000
+    },
+    {
+        "name": "Аналитик данных Junior",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120075600",
+        "experience": "Нет опыта",
+        "salary_from": 20000,
+        "salary_to": 30000
+    },
+    {
+        "name": "Head of Analytics / Руководитель отдела аналитики",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119546574",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Backend-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119925060",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 150000,
+        "salary_to": 0
+    },
+    {
+        "name": "Инженер по тестированию ПО",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=117246175",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Backend-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119942580",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 60000,
+        "salary_to": 0
+    },
+    {
+        "name": "Middle Python Developer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119860306",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 300000,
+        "salary_to": 0
+    },
+    {
+        "name": "Python-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119817960",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java Developer Kaspi Shop",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120072150",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 1000000,
+        "salary_to": 0
+    },
+    {
+        "name": "QA / Тестировщик (Middle)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120076133",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120025695",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Тестировщик в группу проектного тестирования",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119953055",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "QA Engineer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119963578",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Директор департамента Информационных Технологий",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119892956",
+        "experience": "Более 6 лет",
+        "salary_from": 500000,
+        "salary_to": 0
+    },
+    {
+        "name": "QA Engineer (Manual + Automation)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119421418",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 170000,
+        "salary_to": 230000
+    },
+    {
+        "name": "Java Developer [Middle]",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=118783924",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "QA Engineer (manual)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119584947",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Тестировщик web",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=117771307",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 148000
+    },
+    {
+        "name": "Frontend-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119881537",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 1300,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120069436",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java Developer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=118961750",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119881598",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Тестировщик / QA - engineer (Manual)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119786747",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Разработчик Java/Kotlin",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120038105",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "QA инженер / QA тестировщик (middle / middle+)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119919985",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Data analyst / Аналитик данных",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119920669",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Middle Java/Kotlin Developer (на продукт Проверка контрагента)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120073683",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119396366",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java/Kotlin разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120025187",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119817375",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Системный аналитик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120076825",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 160000,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119827233",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119862307",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 350000
+    },
+    {
+        "name": "Старший Java-разработчик [Интеграции]",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120024554",
+        "experience": "Более 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119474327",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 130000,
+        "salary_to": 200000
+    },
+    {
+        "name": "Разработчик Unreal Engine",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119933009",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 100000,
+        "salary_to": 0
+    },
+    {
+        "name": "Junior Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119879589",
+        "experience": "Нет опыта",
+        "salary_from": 70000,
+        "salary_to": 0
+    },
+    {
+        "name": "Middle/Senior Mobile Developer (iOS, Kotlin Multiplatfrom)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120060377",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Middle Mobile QA Engineer (Аndroid)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119861602",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 200000,
+        "salary_to": 0
+    },
+    {
+        "name": "Data Engineer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120032372",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Системный аналитик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120084456",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Senior Java Developer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119818903",
+        "experience": "Более 6 лет",
+        "salary_from": 4500,
+        "salary_to": 6000
+    },
+    {
+        "name": "Руководитель IT команды/Team lead",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120043610",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Backend-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119983255",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 300000,
+        "salary_to": 500000
+    },
+    {
+        "name": "Senior QA Engineer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119316167",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119468097",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119856455",
+        "experience": "Более 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Junior Java-разработчик на игровой проект",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120018219",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 120000,
+        "salary_to": 120000
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119760629",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик Junior",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119649505",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java разработчик ДБО ЮЛ (Цифровизация ВЭД)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119838937",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Разработчик для реализации интеграционных решений",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119821621",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Старший специалист по тестированию (QA Manual Middle+/Senior)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119430952",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Старший Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119087166",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "QA Engineer / Инженер по тестированию",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120088115",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 2000,
+        "salary_to": 4000
+    },
+    {
+        "name": "Developer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120057040",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Junior python разработчик (Django, Fast API)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119970695",
+        "experience": "Нет опыта",
+        "salary_from": 40000,
+        "salary_to": 60000
+    },
+    {
+        "name": "Web-программист - стажер",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=118711736",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Python-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120072589",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 200000,
+        "salary_to": 300000
+    },
+    {
+        "name": "Machine Learning Engineer / Инженер по Машинному Обучению",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=118492955",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 100000,
+        "salary_to": 150000
+    },
+    {
+        "name": "Младший аналитик данных (Junior Data Analyst)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119834656",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Бизнес-аналитик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119541260",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Руководитель проектов",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119731577",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 250000,
+        "salary_to": 300000
+    },
+    {
+        "name": "Golang developer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120020453",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Технический директор/CTO/CIO",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119874837",
+        "experience": "Более 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Разработчик Python",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119881992",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Python-разработчик, Middle (Middle+)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120077867",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Программист в стартап-проект",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119790273",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Frontend Developer / Верстальщик Middle+ (гороскопы, таро, астрология)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119974862",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Младший аналитик данных, Ozon Tech",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120070270",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Разработчик Python",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119822593",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Программист / Разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119823672",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 300000,
+        "salary_to": 0
+    },
+    {
+        "name": "QA Engineer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119912708",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 100000,
+        "salary_to": 140000
+    },
+    {
+        "name": "Junior Data Scientist",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119958010",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Старший инженер по тестированию",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119817952",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Программист-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120028082",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 70000,
+        "salary_to": 0
+    },
+    {
+        "name": "Senior Frontend Developer (React)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119928901",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Тестировщик цифровых моделей",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120039494",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 80000,
+        "salary_to": 0
+    },
+    {
+        "name": "Data аналитик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119944855",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Аналитик данных",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119837379",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Python-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119906355",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "QA тестировщик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120026496",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "QA engineer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119207853",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "QA engineer (Auto + Manual)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120041308",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 160000
+    },
+    {
+        "name": "Junior IT-аналитик (SQL, Python)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119941582",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Python разработчик middle (агрегатор туров)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120059961",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 130000,
+        "salary_to": 170000
+    },
+    {
+        "name": "Backend-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119881973",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "QA engineer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119246134",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 150000,
+        "salary_to": 230000
+    },
+    {
+        "name": "Программист python (custom node)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120039495",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 130000,
+        "salary_to": 0
+    },
+    {
+        "name": "Junior Data Analyst",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119438673",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 500000
+    },
+    {
+        "name": "Backend-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119942579",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 60000,
+        "salary_to": 0
+    },
+    {
+        "name": "Backend-разработчик (Python)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119068461",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Аналитик (Python,SQL)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120043884",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Python разработчик бота в TG",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120044628",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 70000,
+        "salary_to": 90000
+    },
+    {
+        "name": "Backend-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120046783",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 40000,
+        "salary_to": 60000
+    },
+    {
+        "name": "Аналитик данных",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=118962528",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Продуктовый аналитик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119643705",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 1500,
+        "salary_to": 0
+    },
+    {
+        "name": "Ведущий разработчик Python",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120085466",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Golang Developer/Middle Go/Senior Go",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119800769",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "ML engineer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119813378",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Backend-разработчик Python",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119357102",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Product manager",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119819992",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Junior Java программист",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120029611",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Middle Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120031669",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 250000,
+        "salary_to": 300000
+    },
+    {
+        "name": "Manual QA в продукт Naumen SMP",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120030455",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Тестировщик (Middle)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119280787",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик (middle)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120055332",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Backend-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119839046",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119882347",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 150000
+    },
+    {
+        "name": "QA Engineer (Platform V Works::TaskTracker)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119958108",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 140000,
+        "salary_to": 0
+    },
+    {
+        "name": "Тестировщик / QA - engineer (Ручное тестирование)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119899012",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119828771",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 240000
+    },
+    {
+        "name": "Middle Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119954442",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 1200000,
+        "salary_to": 1600000
+    },
+    {
+        "name": "Разработчик Java",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119690724",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 120000,
+        "salary_to": 0
+    },
+    {
+        "name": "QA engineer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119557161",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 250000,
+        "salary_to": 350000
+    },
+    {
+        "name": "Frontend - разработчик React",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119909409",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Функциональный тестировщик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119431439",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Middle QA Engineer / Тестировщик ПО",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120017569",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 100000
+    },
+    {
+        "name": "Java Back-end Developer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120054134",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 700000,
+        "salary_to": 0
+    },
+    {
+        "name": "Специалист по тестированию (в офисе)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119509496",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Backend-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120086849",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Middle Golang developer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120037607",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119979994",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "QA аналитик / тестировщик (финтех)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119173953",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 200000,
+        "salary_to": 300000
+    },
+    {
+        "name": "Руководитель группы разработки / Chief Technology Officer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120044962",
+        "experience": "Более 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Frontend-разработчик (React)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119168117",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 120000,
+        "salary_to": 200000
+    },
+    {
+        "name": "Java разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119908887",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 150000,
+        "salary_to": 170000
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119432170",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Middle/Senior frontend developer (react)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=115774013",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Middle Backend Developer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120038867",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Junior Android Developer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119955289",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Системный мобильный разработчик Android",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120065546",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 200000,
+        "salary_to": 0
+    },
+    {
+        "name": "Front-end developer / front-end разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119508581",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 150000
+    },
+    {
+        "name": "Golang-разработчик Middle",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119840751",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Frontend-разработчик в Only (Next.js, React)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119479827",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 140000,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик (senior)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120055526",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Тестировщик ПО / QA engineer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119383920",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "QA-инженер (Junior)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119875665",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Тестировщик / QA-специалист",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119807626",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 70000,
+        "salary_to": 100000
+    },
+    {
+        "name": "QA Lead",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120063517",
+        "experience": "Более 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119827770",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Backend-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119972297",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Backend-разработчик (Kotlin / Java)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119869394",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 300000,
+        "salary_to": 0
+    },
+    {
+        "name": "QA инженер (Инженер по автоматизированному тестированию)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120068771",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Android разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119929061",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Главный разработчик Java",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119873877",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Системный аналитик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119348161",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "QA Engineer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=118208549",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Middle Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119760320",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Junior Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119250545",
+        "experience": "Нет опыта",
+        "salary_from": 70000,
+        "salary_to": 0
+    },
+    {
+        "name": "Middle QA engineer/Тестировщик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120064605",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Frontend\\Backend Developers",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119982760",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Middle / Middle+ Python Developer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119998178",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java разработчик (Java+SpringBoot+Kotlin)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119867664",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 200000,
+        "salary_to": 200000
+    },
+    {
+        "name": "Product/Data-аналитик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120073925",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Специалист по тестированию",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119935746",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "QA engineer (manual)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120034500",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Python-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120059286",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Программист",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119878802",
+        "experience": "Нет опыта",
+        "salary_from": 1000000,
+        "salary_to": 0
+    },
+    {
+        "name": "Junior Python разработчик (in-house)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119942968",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 130000,
+        "salary_to": 0
+    },
+    {
+        "name": "Go-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119864915",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Младший аналитик / Аналитик данных (для бывших капитанов Dota 2)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120013917",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "BI-аналитик (Tableau)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120013677",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 4000,
+        "salary_to": 0
+    },
+    {
+        "name": "Веб-программист (Python)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120044355",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Тестировщик мобильного приложения",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120021982",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 80000,
+        "salary_to": 0
+    },
+    {
+        "name": "Junior Python developer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119787879",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 100000,
+        "salary_to": 130000
+    },
+    {
+        "name": "QA Engineer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119453491",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 4000
+    },
+    {
+        "name": "Frontend разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119973340",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Junior Data Analyst",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119900069",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Junior Python разработчик (команда R&D)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120041031",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Python-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120025404",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 160000,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120041679",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Фронт-энд разработчик на неполный рабочий день (потребительская панель)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119859719",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 130000
+    },
+    {
+        "name": "Дежурный системный инженер (Linux)/Инженер технической поддержки",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119513466",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Middle Python Разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120073451",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 150000
+    },
+    {
+        "name": "Инженер по тестированию",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120041359",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 70000,
+        "salary_to": 90000
+    },
+    {
+        "name": "Инженер-сборщик FPV дронов",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119440784",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 100000,
+        "salary_to": 0
+    },
+    {
+        "name": "Python-разработчик (стажер)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119991530",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "QA manual engineer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119840841",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "BI-аналитик (Tableau)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120013542",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 4000,
+        "salary_to": 0
+    },
+    {
+        "name": "Junior+/Middle Python Developer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119994625",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 1000,
+        "salary_to": 2000
+    },
+    {
+        "name": "Backend-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119813862",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Тестировщик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=118676373",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Тестировщик/QA",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119191393",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Python-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119323345",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 250000,
+        "salary_to": 0
+    },
+    {
+        "name": "Python Developer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120022467",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Python-разработчик (Pre Middle / Middle)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120055939",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 70000,
+        "salary_to": 150000
+    },
+    {
+        "name": "Senior Frontend Developer / Старший фронтенд-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120017270",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 200000,
+        "salary_to": 250000
+    },
+    {
+        "name": "Middle QA Manual Engineer (стрим BI)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=117956799",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Junior Python-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119075902",
+        "experience": "Нет опыта",
+        "salary_from": 70000,
+        "salary_to": 0
+    },
+    {
+        "name": "Python-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119161831",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 150000,
+        "salary_to": 0
+    },
+    {
+        "name": "QA engineer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119823426",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Junior Python developer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119870879",
+        "experience": "Нет опыта",
+        "salary_from": 400,
+        "salary_to": 800
+    },
+    {
+        "name": "Prompt-инженер (QA, тестирование)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119928923",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Junior Python Backend Developer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119780954",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 120000
+    },
+    {
+        "name": "Frontend-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119893908",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Консультант (Практика Разведка и Добыча)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120026104",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик (Senior)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119827190",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Python-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120044296",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Младший системный администратор",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=117369969",
+        "experience": "Нет опыта",
+        "salary_from": 100000,
+        "salary_to": 111000
+    },
+    {
+        "name": "Backend-разработчик (Python)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120021138",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 130000,
+        "salary_to": 0
+    },
+    {
+        "name": "Middle QA-инженер",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=118981120",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Middle python-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119827529",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 250000
+    },
+    {
+        "name": "Инженер по тестированию",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119460118",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 120000,
+        "salary_to": 250000
+    },
+    {
+        "name": "Junior Python Developer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119959194",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Аналитик данных",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119871623",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 1450
+    },
+    {
+        "name": "Аналитик продаж / Аналитик данных (Junior)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119675694",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 140000,
+        "salary_to": 0
+    },
+    {
+        "name": "Аналитик проекта",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120073017",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 150000,
+        "salary_to": 0
+    },
+    {
+        "name": "Python-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120046530",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 150000,
+        "salary_to": 200000
+    },
+    {
+        "name": "Senior Frontend Developer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119377126",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 5000,
+        "salary_to": 10000
+    },
+    {
+        "name": "Стажер-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119490884",
+        "experience": "Нет опыта",
+        "salary_from": 100000,
+        "salary_to": 150000
+    },
+    {
+        "name": "ML-инженер",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120020650",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Python-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119951214",
+        "experience": "Нет опыта",
+        "salary_from": 40000,
+        "salary_to": 80000
+    },
+    {
+        "name": "QA Engineer/Ведущий тестировщик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119512310",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 150000,
+        "salary_to": 0
+    },
+    {
+        "name": "Frontend разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119886944",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 120000,
+        "salary_to": 0
+    },
+    {
+        "name": "Junior Python Developer (Data)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119950968",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 200000
+    },
+    {
+        "name": "Python-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120024574",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Junior Analyst/Project Manager AI/ML",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119864364",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Backend-разработчик Python",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119931994",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Инженер технической поддержки",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120020013",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Python Разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120037980",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Системный аналитик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=118954267",
+        "experience": "Нет опыта",
+        "salary_from": 125000,
+        "salary_to": 175000
+    },
+    {
+        "name": "Стажер / Junior BI engenineer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119542947",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Data scientist ML",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119908809",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Python-разработчик (банковский проект)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119818349",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 160000
+    },
+    {
+        "name": "Junior QA инженер / Тестировщик ПО",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119349267",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 100000
+    },
+    {
+        "name": "Python-разработчик (интеграции с Tilda)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119944179",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Web-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119989761",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 80000,
+        "salary_to": 150000
+    },
+    {
+        "name": "Data Analyst / Fixed Income Analyst (junior)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120044445",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Quantitative Researcher",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119882013",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 250000,
+        "salary_to": 450000
+    },
+    {
+        "name": "Backend-разработчик (Python)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=118770116",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Python backend разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119981112",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": ".NET разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120011775",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Системный аналитик/Бизнес-аналитик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=114811435",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 150000,
+        "salary_to": 0
+    },
+    {
+        "name": "Python Developer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119932474",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 70000,
+        "salary_to": 120000
+    },
+    {
+        "name": "Программист С++",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119927029",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Руководитель направления реализации стратегических программ",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119537034",
+        "experience": "Более 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Python Middle Разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119850123",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 80000,
+        "salary_to": 120000
+    },
+    {
+        "name": "Программист / разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119849707",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 100000,
+        "salary_to": 100000
+    },
+    {
+        "name": "Python разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119851373",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 170000
+    },
+    {
+        "name": "Data Analyst",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120074614",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Продуктовый аналитик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119960376",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 192000,
+        "salary_to": 0
+    },
+    {
+        "name": "Python-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119251389",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Инженер по тестированию / Software Tester",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119066592",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Python разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=118191437",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Data аналитик (Junior/Middle)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119979097",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Аналитик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119786139",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Разработчик python middle +/ FastAPI",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119874810",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Data Analyst \\ Аналитик данных",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120012920",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Data аналитик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119951526",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Python разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119536682",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 160000,
+        "salary_to": 200000
+    },
+    {
+        "name": "Java Developer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120028851",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java разработчик (Java+SpringBoot+Kotlin)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119867664",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 200000,
+        "salary_to": 200000
+    },
+    {
+        "name": "Специалист по тестированию",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119935746",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Тестировщик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120045153",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 230000,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик (junior+/middle)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120016539",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 200000,
+        "salary_to": 250000
+    },
+    {
+        "name": "QA-инженер (middle)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119955741",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120018313",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 250000,
+        "salary_to": 300000
+    },
+    {
+        "name": "Java-разработчик среднего уровня (Middle Java developer)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120068008",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119174962",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "QA/Тестировщик (manual, web)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119831283",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Разработчик Java",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120033956",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 140000,
+        "salary_to": 300000
+    },
+    {
+        "name": "Middle Frontend-разработчик (React, Next.js)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120027362",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 150000,
+        "salary_to": 250000
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119959692",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 180,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик Middle",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119840865",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Тестировщик мобильного приложения",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120021982",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 80000,
+        "salary_to": 0
+    },
+    {
+        "name": "Тестировщик/QA инженер",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120083397",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "QA Engineer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119453491",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 4000
+    },
+    {
+        "name": "Инженер-тестировщик (Manual, Junior QA Auto)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119843173",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119897315",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Frontend разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119973340",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Android-разработчик (Kotlin)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120008319",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Начинающий специалист по Java разработке (стажер)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119443287",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "QA (направление-кредиты)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120040935",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120041679",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120040727",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик (проект ДБО)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120067188",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 270000
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120068903",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java разработчик Middle+",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119899003",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-программист",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119858809",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 70000,
+        "salary_to": 0
+    },
+    {
+        "name": "Middle/Middle+ Java developer (Ecom, fintech)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119905419",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Front React разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119894189",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "QA Engineer/Тестировщик (Middle,Senior)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=118446235",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Frontend-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119902355",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 100000,
+        "salary_to": 180000
+    },
+    {
+        "name": "Android-разработчик (Разработка мессенджера)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120055480",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "QA-инженер",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119249742",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java - разработчик (backend)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119829909",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "UI/UX Тестировщик / Manual QA",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=108413607",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119918815",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "QA - Тетсировщик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120077415",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик (Senior)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119827190",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Android developer (Junior / Middle)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119899278",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "QA Engineer/Тестировщик (Middle, Senior)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119837556",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Junior Mobile Developer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119961304",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 80000,
+        "salary_to": 0
+    },
+    {
+        "name": "Junior QA-engineer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119941275",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 55000,
+        "salary_to": 100000
+    },
+    {
+        "name": "Инженер по тестированию",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119460118",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 120000,
+        "salary_to": 250000
+    },
+    {
+        "name": "Java программист",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119951169",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 80000,
+        "salary_to": 150000
+    },
+    {
+        "name": "Java разработчик Консолидированные группы",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120043291",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 287400
+    },
+    {
+        "name": "Middle+ backend developer Kotlin",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120014288",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java Backend Developer (junior)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119427373",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 103000,
+        "salary_to": 172000
+    },
+    {
+        "name": "Middle/senior kotlin/ java разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120037755",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Backend-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119972296",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Android developer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120005593",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Стажер-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119490884",
+        "experience": "Нет опыта",
+        "salary_from": 100000,
+        "salary_to": 150000
+    },
+    {
+        "name": "Мобильный Android разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120076949",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Ведущий (Middle) Java разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120009428",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119811102",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Junior Python Developer (Data)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119950968",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 200000
+    },
+    {
+        "name": "Тимлид команды продуктовой разработки",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=118809758",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 450000,
+        "salary_to": 0
+    },
+    {
+        "name": "Специалист технической поддержки (продукт «Фактор»)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119786123",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 120000,
+        "salary_to": 150000
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119492312",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "QA Engineer Manual | Ручной тестировщик (backend)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119016263",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 120000
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119749333",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Требования на вакансию Strong Middle or Senior Java-разработчика",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119819331",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Middle/senior android developer (java)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120014477",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Разработчик Frontend React",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119070127",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 200000,
+        "salary_to": 220000
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=118457096",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119229381",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 200000,
+        "salary_to": 350000
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119809383",
+        "experience": "Более 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Middle backend разработчик (Java/Kotlin)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119875749",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Senior Android разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120066225",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Middle/Senior Java Developer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119819651",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 290000
+    },
+    {
+        "name": "Java-разработчик (Quarkus)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119959720",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java/Kotlin разработчик (Java/Kotlin Developer)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119871927",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 150000,
+        "salary_to": 300000
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=116717883",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 260000
+    },
+    {
+        "name": "Java Developer (Техническая поддержка)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119829293",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Middle+/Senior Front-end Developer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119839291",
+        "experience": "Более 6 лет",
+        "salary_from": 2000,
+        "salary_to": 2000
+    },
+    {
+        "name": "Java Developer (Middle+/Senior)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119897451",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Разработчик Frontend TypeScript/React ДБО ЮЛ (Цифровизация ВЭД)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119478106",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119923561",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 4500,
+        "salary_to": 0
+    },
+    {
+        "name": "IT Recruiter/Рекрутер",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119968279",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Senior Java Developer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119960433",
+        "experience": "Более 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Тестировщик web",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=117771308",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 148000
+    },
+    {
+        "name": "QA Tester (Auto/Manual)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120080322",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "QA Engineer Mobile (мобильное тестирование)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119902447",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 150000
+    },
+    {
+        "name": "React Developer, BPM Camunda",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119894388",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119325001",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Стажер фронтенд/бэкенд разработчик в стартап проект",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119849538",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Разработчик java/spring",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119974226",
+        "experience": "Более 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java разработчик / JUNIOR",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119479758",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java Developer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119761771",
+        "experience": "Нет опыта",
+        "salary_from": 0,
+        "salary_to": 500000
+    },
+    {
+        "name": "Java-разработчик (backend)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119537506",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "WEB-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119157206",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 100000,
+        "salary_to": 0
+    },
+    {
+        "name": "Middle Java developer (back-end) разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119371805",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java Developer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=117443827",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Программист Java",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119766772",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Middle Java разработчик (Новосибирск)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119476520",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java developer",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119773991",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119929341",
+        "experience": "От 1 года до 3 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик_senior (удалённо)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119895851",
+        "experience": "Более 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Ведущий Java разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=120010610",
+        "experience": "Более 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Backend разработчик (Java, middle)",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=118723578",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 0,
+        "salary_to": 0
+    },
+    {
+        "name": "Java-разработчик",
+        "address": "https://hh.ru/applicant/vacancy_response?vacancyId=119981478",
+        "experience": "От 3 до 6 лет",
+        "salary_from": 180000,
+        "salary_to": 220000
+    }
+]
